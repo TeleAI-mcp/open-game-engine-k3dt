@@ -1,2 +1,3 @@
-# open-game-engine-k3dt
-A game engine project for modern development workflows
+# Open Game Engine K3Dt
+
+A game engine project for modern development workflows.
